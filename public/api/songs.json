@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Tokyo Cafe",
+    "artist": "TVARI",
+    "url": "/songs/tokyo-cafe.mp3",
+    "cover": "/covers/tokyo-cafe.jpg",
+    "duration": 153
+  },
+  {
+    "id": 2,
+    "title": "Motivational Electronic",
+    "artist": "Alex-Productions",
+    "url": "/songs/motivational-electronic.mp3",
+    "cover": "/covers/motivational-electronic.jpg",
+    "duration": 206
+  },
+  {
+    "id": 3,
+    "title": "Deep Breathing",
+    "artist": "Top-Flow",
+    "url": "/songs/deep-breathing.mp3",
+    "cover": "/covers/deep-breathing.jpg",
+    "duration": 126
+  }
+]
